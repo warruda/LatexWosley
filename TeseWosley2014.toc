@@ -46,9 +46,7 @@
 \contentsline {subsubsection}{Resultados}{39}{section*.65}
 \contentsline {chapter}{\numberline {6}Resultados}{44}{chapter.6}
 \contentsline {subsection}{\numberline {6.0.20}Obtidos}{45}{subsection.6.0.20}
-\contentsline {subsection}{\numberline {6.0.21}Esperados}{46}{subsection.6.0.21}
+\contentsline {subsubsection}{P. brasiliensis}{46}{section*.68}
+\contentsline {subsubsection}{P. pombe}{46}{section*.69}
 \contentsline {chapter}{\numberline {7}Conclus\IeC {\~a}o}{47}{chapter.7}
-\contentsline {subsection}{\numberline {7.0.22}Disciplinas}{47}{subsection.7.0.22}
-\contentsline {subsection}{\numberline {7.0.23}Disciplinas}{47}{subsection.7.0.23}
-\contentsline {subsection}{\numberline {7.0.24}Pesquisa}{47}{subsection.7.0.24}
-\contentsline {chapter}{Refer\^encias}{49}{section*.68}
+\contentsline {chapter}{Refer\^encias}{48}{section*.70}

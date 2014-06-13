@@ -1,0 +1,61 @@
+\chapter{Introdução}
+
+Desde o trabalho de~\cite{watson1953molecular:1953}, em que eles propuseram a estrutura para uma molécula de DNA, a comunidade científica vem realizando um grande esforço para tentar compreender a estrutura e o funcionamento da biologia molecular nos seres vivos. Na década de 1990, iniciou-se um consórcio internacional, que teve o intuito de mapear e sequenciar o genoma humano por completo. Concluído em 2001, esse projeto sequenciou o genoma humano com 3 bilhões de bases e cerca de 20.000 a 30.000 genes~\citep{venter2001sequence:2001,lander2001initial:2001,setubal1997introduction:1997}.
+
+A Bioinformática utiliza conhecimentos das áreas da Computação, Matemática e Estatística,  com a finalidade de resolver problemas de Biologia Molecular. Nesta área, são desenvolvidos \textit{pipelines} e ferramentas computacionais para apoiar os bi\'ologos em projetos de sequenciamento de genomas de modo a converter dados experimentais em informações biologicamente relevantes~\citep{Schneider2006:2006,Schneider2010:2010,Ralha2011:2011}. Nesses projetos, o enorme volume de dados gerados aliado \`a complexidade dos problemas de Biologia Molecular requerem t\'ecnicas sofisticadas de computa\c{c}\~ao, e constituem hoje objetos de pesquisa importantes na área própria de Computação.
+
+Até a década de 1990, as moléculas de ácidos ribonucléicos (RNAs) estavam relacionadas ao uso da informação contidas no DNA para a tradução de proteínas, como o RNA mensageiro (mRNA), com exceção apenas do RNA transportador (tRNA) e do RNA ribossomal (rRNA), que também desempenham funções relacionadas diretamente à tradução de proteínas~\citep{setubal1997introduction:1997}. Porém, desde então, descobriram-se outros tipos de moléculas de RNA, que não são traduzidas em proteínas e estão presentes nos organismos afetando uma grande variedade de processos celulares. Essas moléculas, antes chamadas de lixo, são hoje denominadas de RNAs não-codificadores (ncRNAs)~\citep{liu2005noncode:2005}.
+
+Os ncRNAs controlam uma gama notável de reações biológicas e processos, como iniciação da tradução, controle da abundância mRNA, arquitetura do cromossomo, manutenção de células-tronco, desenvolvimento do cérebro, músculos e secreção de insulina, dentre outras~\citep{michalak2006rna:2006}.
+
+Apesar de sua importância funcional, e de muitas pesquisas buscarem classicar e identificar ncRNAs, os métodos biológicos e computacionais ainda não são capazes de identificá-los e classificá-los, o que afeta diretamente a anotação de ncRNAs.
+
+Do ponto de vista experimental, os ncRNAs são caracterizados pela ausência de tradução em prote\'inas. Do ponto de vista computacional, o fato de sequ\^encias de certas classes de ncRNAs serem curtas e não terem um padrão de sequência bem comportado impedem que sejam reconhecidos apenas pelas suas bases (sequ\^encias prim\'arias), o que significa que em geral devem ser caracterizadas pelas suas estruturas secundárias~\citep{huttenhofer2005non:2005}. Uma observação importante é a de que, em geral ncRNAs não podem ser identificados e classificados pelas mesmas ferramentas que detectam genes codificadores de proteína de forma tão eficiente, como o BLAST~\citep{rivas2001noncoding:2001}.
+
+
+Por outro lado,  Sistemas Multiagentes (SMAs), dentro de Inteligência Artificial, caracterizam-se pela distribuição da inteligência entre diferentes entidades autônomas (agentes), que interagem para atingir objetivos individuais ou coletivos. Para tanto, os agentes que compõem um SMA precisam negociar, cooperar para atingir objetivos (que não podem ser realizados por um só agente) e coordenar esforços conjuntos~\citep{wooldridge2009introduction:2009}.
+
+Este trabalho propõe o uso de um SMA para auxiliar na anotação de ncRNAs, particularmente utilizando ferramentas baseadas em técnicas de raciocínio automatizado e aprendizagem de máquina.
+
+
+\subsection{Motivação}
+
+Identificar e anotar ncRNAs constituem-se hoje em pesquisas desafiadoras tanto em Biologia Molecular, quanto em Bioinformática, devido a descobertas recentes de que ncRNAs exercem funções diversificadas e importantes nos mecanismos celulares, como a regulação do metabolismo de outras moléculas, o auxílio do transporte de proteína, a edição de nucleotídeos, a regulação de \textit{imprinting} e estado da cromatina~\citep{Sesam:2011}.
+A tendência atual de pesquisa é usar várias ferramentas diferentes e os biólogos usarem seu raciocínio biológico para decidir a anotação de sequências que potencialmente seriam ncRNs.
+
+\subsection{Problema}
+
+Tanto quanto sabemos, não há ferramenta computacional usando simulação do raciocínio dos biólogos para, a partir do resultado de diversas ferramentas, recomendar anotação de ncRNAs.
+
+
+\subsection{Hipótese} \label{sec:hipotese}
+
+Uma abordagem baseada em SMA será eficaz para criar uma ferramenta de anotação de ncRNAs, pois poderá combinar várias metodologias usando regras de inferência, usadas para simular o raciocínio dos biólogos.
+
+\subsection{Objetivos} \label{sec:objetivos}
+
+
+\subsubsection*{Principal}
+
+O objetivo deste trabalho é propor um SMA para a anotação de ncRNAs, denominado ncRNA-Agents, utilizando diversas ferramentas e bancos de dados, conhecidos e regras de inferência para simular o raciocínio dos biólogos.
+
+\subsubsection*{Específicos}
+
+\begin{itemize}
+\item Propor uma arquitetura baseada em SMA para anotação de ncRNAs;
+\item Implementar uma ferramenta baseada na arquitetura do item anterior, e disponibilizar pela web;
+\item Realizar testes com dados reais de projetos de sequenciamento de genomas;
+\item Comparar a ferramenta com outras existentes na literatura.
+\end{itemize}
+
+\subsection{Descrições dos Capítulos}
+
+No Capítulo~\ref{sec:BiologiaMolecularBioInformática}, serão abordados conceitos relativos à Biologia Molecular e Bioinformática.
+
+No Capítulo~\ref{sec:ncRNACodificadores}, serão ncRNAs. Serão apresentadas algumas classes conhecidas de ncRNAs, e elencados desafios para detecção e anotação de ncRNAs, que motivaram o desenvolvimento desta pesquisa. Neste mesmo capítulo, também são apresentados repositórios (base de dados) e ferramentas comumente usadas para detectar ncRNAs.
+
+No Capítulo~\ref{sec:SistMult}, são apresentados SMAs, particularmente conceitos básicos e propriedades. Serão também exploradas ferramentas oara implementar SMAs.
+
+No Capítulo~\ref{sec:propostaNcRNAs}, apresentamos uma arquitetura do ncRNA-Agents, um SMA para anotar ncRNAS. Será detalhado o protótipo implementado, as ferramentas e bancos de dados usados, além dos resultados obtidos e dos resultados almejados quando esta tese for concluída.
+
+Por fim, no Capítulo~\ref{sec:MetodologiaCronograma}, apresentaremos as atividades já realizadas, um cronograma com as atividades futuras, além das contribuições esperadas.

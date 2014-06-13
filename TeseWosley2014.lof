@@ -1,0 +1,30 @@
+\select@language {american}
+\select@language {brazil}
+\select@language {american}
+\select@language {brazil}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Estrutura esquem\IeC {\'a}tica de um nucleot\IeC {\'\i }deo, mostrando seus principais componentes: a\IeC {\c c}\IeC {\'u}car, fosfato e base nitrogenada~\citep {brainstuff:2000}. }}{4}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Os quatros tipos de nucleot\IeC {\'\i }deos que comp\IeC {\~o}em a mol\IeC {\'e}cula de DNA.}}{5}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Replica\IeC {\c c}\IeC {\~a}o DNA Semiconservativa. \IeC {\`A} esquerda podemos observar um trecho de uma mol\IeC {\'e}cula de DNA que evidencia o aspecto de dupla-h\IeC {\'e}lice e \IeC {\`a} direita as fitas m\IeC {\~a}e separadas, servindo de molde para as filhas, resultando em duas mol\IeC {\'e}culas id\IeC {\^e}nticas \IeC {\`a} dupla-h\IeC {\'e}lice original~\citep {lodish:2005}. }}{6}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Tipos de nucleot\IeC {\'\i }deos que comp\IeC {\~o}em a mol\IeC {\'e}cula de RNA, observando-se que a Uracila (U) substitui a Timina (T) nos RNAs. }}{6}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Modelo da estrutura de um rRNA 16S da E.coli~\citep {gutell:1994}. }}{8}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces A s\IeC {\'\i }ntese prot\IeC {\'e}ica em c\IeC {\'e}lula procari\IeC {\'o}tica funciona da seguinte maneira. No passo 1, fatores de transcri\IeC {\c c}\IeC {\~a}o ligam-se \IeC {\`a}s regi\IeC {\~o}es da regula\IeC {\c c}\IeC {\~a}o dos genes que controlam, ativando-os. No passo 2, a RNA polimerase come\IeC {\c c}a a transcri\IeC {\c c}\IeC {\~a}o do gene ativado pela regi\IeC {\~a}o promotora, resultando na forma\IeC {\c c}\IeC {\~a}o do mRNA. No passo 3, o mRNA e ligado no ribossomos. Nesse ponto, a prote\IeC {\'\i }na \IeC {\'e} sintetizada pelo ribossomo que liga os amino\IeC {\'a}cidos em uma cadeia linear ~\citep {lodish:2005}. }}{10}{figure.2.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces A s\IeC {\'\i }ntese prot\IeC {\'e}ica em c\IeC {\'e}lula eucari\IeC {\'o}tica funciona da seguinte maneira. No passo 1, fatores de transcri\IeC {\c c}\IeC {\~a}o ligam-se \IeC {\`a}s regi\IeC {\~o}es da regula\IeC {\c c}\IeC {\~a}o dos genes que controlam, ativando-os. No passo 2, a RNA polimerase come\IeC {\c c}a a transcri\IeC {\c c}\IeC {\~a}o do gene ativado pela regi\IeC {\~a}o promotora, resultando na forma\IeC {\c c}\IeC {\~a}o do pr\IeC {\'e}-mRNA. No passo 3, \IeC {\'e} feito um processamento na transcri\IeC {\c c}\IeC {\~a}o para remover sequ\IeC {\^e}ncias n\IeC {\~a}o-codificadoras. Para finalizar, no passo 4, o mRNA move-se para o citoplasma e \IeC {\'e} ligado pelo ribossomos. Nesse ponto, a prote\IeC {\'\i }na \IeC {\'e} sintetizada pelo ribossomo que liga os amino\IeC {\'a}cidos em uma cadeia linear ~\citep {lodish:2005}. }}{11}{figure.2.7}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces \textit {pipeline} Sanger. }}{13}{figure.2.8}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Um \textit {pipeline} gen\IeC {\'e}rico para o sequenciamento do 454 Roche. }}{15}{figure.2.9}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Um \textit {pipeline} gen\IeC {\'e}rico para o sequenciamento do Illumina. }}{15}{figure.2.10}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Arquitetura de um agente inteligente (Adaptado de~\citep {Russell:2002}).}}{25}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Estrutura de um Sistema Multi-Agente (Adaptado de~\citep {wooldridge2009introduction:2009}).}}{26}{figure.4.2}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Arquitetura do ncRNAs-Agents.~\citep {Arruda:2011}. }}{37}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces P\IeC {\'a}gina do ncRNA-Agents, mostrando as ferramentas e os bancos de dados usados nos experimentos.}}{40}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces \textit {Sniffer} dos agentes do ncRNA-Agents: a camada de resolu\IeC {\c c}\IeC {\~a}o de conflitos aguardando a resposta do Agente Gerente Homologia com a ferramenta Infernal.}}{41}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces \textit {Sniffer} dos agentes do ncRNA-Agents: a camada de resolu\IeC {\c c}\IeC {\~a}o de conflitos enviando resposta para a interface do ncRNA-Agents para o usu\IeC {\'a}rio.}}{42}{figure.5.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces P\IeC {\'a}gina do ncRNA-Agents, mostrando as ferramentas e os bancos de dados usados nos experimentos. }}{44}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces \textit {Sniffer} dos agentes do ncRNA-Agents: Aguardando tomada de decis\IeC {\~a}o da camada RC.}}{45}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces \textit {Sniffer} dos agentes do ncRNA-Agents: Enviando resposta para a interface.}}{45}{figure.6.3}
+\addvspace {10\p@ }

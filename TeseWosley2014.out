@@ -1,0 +1,36 @@
+\BOOKMARK [0][-]{dedication.0}{Dedicat\363ria}{}% 1
+\BOOKMARK [0][-]{acknowledgements.0}{Agradecimentos}{}% 2
+\BOOKMARK [0][-]{resumo.0}{Resumo}{}% 3
+\BOOKMARK [0][-]{abstract.0}{Abstract}{}% 4
+\BOOKMARK [0][-]{chapter.1}{Introdu\347\343o}{}% 5
+\BOOKMARK [1][-]{subsection.1.0.1}{Motiva\347\343o}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.0.2}{Problema}{subsection.1.0.1}% 7
+\BOOKMARK [2][-]{subsection.1.0.3}{Hip\363tese}{subsection.1.0.1}% 8
+\BOOKMARK [2][-]{subsection.1.0.4}{Objetivos}{subsection.1.0.1}% 9
+\BOOKMARK [2][-]{subsection.1.0.5}{Descri\347\365es dos Cap\355tulos}{subsection.1.0.1}% 10
+\BOOKMARK [0][-]{chapter.2}{Biologia Molecular e Bioinform\341tica}{}% 11
+\BOOKMARK [1][-]{subsection.2.0.6}{\301cidos nucl\351icos}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.0.7}{Dogma Central da Biologia Molecular: S\355ntese de Prote\355nas}{subsection.2.0.6}% 13
+\BOOKMARK [2][-]{subsection.2.0.8}{Pipelines em projetos genoma}{subsection.2.0.6}% 14
+\BOOKMARK [0][-]{chapter.3}{RNAs n\343o-codificadores}{}% 15
+\BOOKMARK [1][-]{subsection.3.0.9}{Conceitos B\341sicos}{chapter.3}% 16
+\BOOKMARK [2][-]{subsection.3.0.10}{Classifica\347\365es de ncRNAs}{subsection.3.0.9}% 17
+\BOOKMARK [2][-]{subsection.3.0.11}{Ferramentas computacionais para detec\347\343o de ncRNAs}{subsection.3.0.9}% 18
+\BOOKMARK [2][-]{subsection.3.0.12}{Bancos de dados}{subsection.3.0.9}% 19
+\BOOKMARK [2][-]{subsection.3.0.13}{Caracter\355sticas e Desafios na Anota\347\343o de ncRNAs}{subsection.3.0.9}% 20
+\BOOKMARK [0][-]{chapter.4}{Sistema Multiagentes e Regras de Infer\352ncia}{}% 21
+\BOOKMARK [1][-]{subsection.4.0.14}{Agentes}{chapter.4}% 22
+\BOOKMARK [2][-]{subsection.4.0.15}{SMAs}{subsection.4.0.14}% 23
+\BOOKMARK [2][-]{subsection.4.0.16}{Ferramentas para SMAs}{subsection.4.0.14}% 24
+\BOOKMARK [2][-]{subsection.4.0.17}{Motores de Regras de Infer\352ncia}{subsection.4.0.14}% 25
+\BOOKMARK [0][-]{chapter.5}{Projeto: ncRNA-Agents}{}% 26
+\BOOKMARK [1][-]{subsection.5.0.18}{Arquitetura}{chapter.5}% 27
+\BOOKMARK [2][-]{subsection.5.0.19}{Detalhes de Implementa\347\343o}{subsection.5.0.18}% 28
+\BOOKMARK [0][-]{chapter.6}{Resultados}{}% 29
+\BOOKMARK [1][-]{subsection.6.0.20}{Obtidos}{chapter.6}% 30
+\BOOKMARK [2][-]{subsection.6.0.21}{Esperados}{subsection.6.0.20}% 31
+\BOOKMARK [0][-]{chapter.7}{Conclus\343o}{}% 32
+\BOOKMARK [1][-]{subsection.7.0.22}{Disciplinas}{chapter.7}% 33
+\BOOKMARK [2][-]{subsection.7.0.23}{Disciplinas}{subsection.7.0.22}% 34
+\BOOKMARK [2][-]{subsection.7.0.24}{Pesquisa}{subsection.7.0.22}% 35
+\BOOKMARK [0][-]{section*.68}{Refer\352ncias}{}% 36

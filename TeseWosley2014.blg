@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: TeseWosley2014.aux
+The style file: plain.bst
+Database file #1: bibliography.bib
+Repeated entry---line 1107 of file bibliography.bib
+ : @book{stryer:2002
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1148 of file bibliography.bib
+ : @article{machado2008computational:2008
+ :                                       ,
+I'm skipping whatever remains of this entry
+Warning--empty note in Arruda:2011
+Warning--empty journal in brainstuff:2000
+Warning--empty journal in Lemos:2004
+Warning--can't use both author and editor fields in Russell:2002
+Warning--empty publisher in Russell:2002
+Warning--empty note in Stadler:2011
+You've used 106 entries,
+            2118 wiz_defined-function locations,
+            1071 strings with 20847 characters,
+and the built_in function-call counts, 35575 in all, are:
+= -- 3386
+> -- 1975
+< -- 1
++ -- 791
+- -- 676
+* -- 2749
+:= -- 6129
+add.period$ -- 308
+call.type$ -- 106
+change.case$ -- 631
+chr.to.int$ -- 0
+cite$ -- 112
+duplicate$ -- 1127
+empty$ -- 2604
+format.name$ -- 676
+if$ -- 7128
+int.to.chr$ -- 0
+int.to.str$ -- 106
+missing$ -- 106
+newline$ -- 523
+num.names$ -- 212
+pop$ -- 617
+preamble$ -- 1
+purify$ -- 544
+quote$ -- 0
+skip$ -- 779
+stack$ -- 0
+substring$ -- 2218
+swap$ -- 114
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 400
+warning$ -- 6
+while$ -- 330
+width$ -- 109
+write$ -- 1110
+(There were 2 error messages)

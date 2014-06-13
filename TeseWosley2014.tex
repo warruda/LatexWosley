@@ -1,0 +1,260 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Classe do documento
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Nós usamos a classe "unb-cic".  Deixe apenas uma das linhas
+% abaixo não-comentada, dependendo se você for do bacharelado ou
+% da licenciatura.
+
+\documentclass[doutorado]{unb-cic}
+%\documentclass[licenciatura]{unb-cic}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Pacotes importados
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage[brazil,american]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{indentfirst}
+\usepackage{natbib}
+\usepackage{xcolor,graphicx,url}
+\usepackage[utf8]{inputenc}
+\usepackage{scalefnt}
+\usepackage{lscape}
+\usepackage{amsfonts}
+\usepackage[fleqn]{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+%\usepackage[table]{xcolor}
+%\usepackage[authoryear]{natbib}
+\usepackage{indentfirst}
+%\usepackage{graphicx,url}
+%\usepackage[table]{xcolor}
+%\usepackage[utf8]{inputenc}
+%\usepackage{multirow}
+%\usepackage{array}
+%\usepackage{color}
+%\usepackage[Algoritmo]{algorithm}
+%\usepackage{float}
+%\usepackage{enumerate}
+%\usepackage{mathtools}
+%\usepackage{textcomp}
+%\usepackage{subfig}
+%\usepackage{booktabs} 
+%\usepackage{longtable, booktabs,etoolbox}
+%\usepackage{bigstrut}
+%\usepackage{multicols}
+%\usepackage{nomencl}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Cores dos links
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Veja o arquivos cores.tex se quiser ver que outras cores estão
+% pré-definidas.  Utilizando o comando \hypersetup abaixo nós
+% evitamos aquelas caixas vermelhas feias em volta dos links.
+
+\input{cores}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=DarkScarletRed,
+  citecolor=DarkScarletRed,
+  filecolor=DarkScarletRed,
+  urlcolor= DarkScarletRed
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Informações sobre a monografia
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% definições prévias do documento
+\title{ncRNA-Agents: Anotação de RNAs não-codificadores baseado em Sistema Multiagentes}
+
+\orientador[a]{\prof[a] \dr[a] Maria Emilia M. T. Walter}{CIC/UnB}
+%\coorientador{\prof \dr Coorientador}{IST/UTL}
+\coordenador{\prof \dr[a] Alba Cristina M. A. de Melo}{CIC/UnB}
+\diamesano{13}{Junho}{2014}
+                           
+\membrobanca{\prof \dr[a] Célia Ghedini Ralha}{CIC/UnB}
+
+\membrobanca{\prof[a] \dr[a] Membro 2}{CIC/UnB}	
+
+\membrobanca{\prof[a] \dr[a] Membro 3}{CIC/UnB}
+
+\membrobanca{\prof[a] \dr[a] Membro 4}{CIC/UnB}
+
+
+\autor{Wosley}{da Costa Arruda}
+\CDU{10/0132871}
+
+\palavraschave{RNAs não-codificadores, Anotação de RNAs não-codificadores, Sistemas Multiagentes, Bioinformática, Inteligência Artificial}
+\keywords{non-coding RNA, Annotation of Non-Coding RNAs, Multi-agent System, Bioinformatics, Artificial Intelligence.}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Texto
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+  \maketitle
+  \pretextual
+
+  \begin{dedicatoria}
+     \begin{flushright}
+       \vfill
+       \textit{Ao meu pai, que plantou em mim a semente da curiosidade científica.  \\	
+       \vspace{3mm}
+  	   À minha mãe, pelo exemplo de forca e determinacao.  \\	
+       \vspace{3mm}
+       Devo tudo a vocês.} 
+      \end{flushright}
+  \end{dedicatoria}
+ 
+
+  \begin{agradecimentos}
+  
+%  Aristósteles, especificamente a respeito de orientadoras, escreveu:
+%``Este é o ponto essencial: a partir de sua preparação científica, a orientadora deve
+%instigar não apenas a capacidade, mas o desejo de observar fenômenos naturais. No
+%nosso sistema, ela deve tornar-se uma influência passiva, muito mais do que ativa,
+%e sua passividade deve ser composta de uma ansiosa curiosidade científica, e um
+%respeito absoluto pelo fenômeno que ela deseja observar. A orientadora deve entender
+%e sentir sua posição de observadora; a atividade deve permanecer no fenômeno.''
+%
+%Uma orientadora é tanto uma mentora quanto uma fonte de conselhos científicos; ela encoraja
+%o interesse de seus orientados, ao invés de promover seus próprios interesses; ela encontra-se
+%disponível para dar conselhos em sua tese e na sua carreira científica. Uma boa orientadora,
+%além de tudo, sabe ouvir, científica e pessoalmente, seus orientados, compreendendo-nos, mesmo
+%quando sequer tenhamos verbalizado palavra alguma. Ela possui o misterioso dom de perceber
+%e sentir o que se passa em nossas mentes, quando nós mesmos não somos capazes de fazê-lo. Ela
+%é como um farol, no meio das tempestades, que sabemos estar lá para nos orientar; um porto
+%seguro, onde podemos ancorar nossas dúvidas.
+%
+%Nesse sentido, tive a sorte de conseguir uma orientadora no doutorado,
+%que preencheu não são os requisitos de boa orientadora, como muito mais do que é possível
+%conceber. Eu gostaria de agradecer minha orientadora, Maria Emilia M. T. Walter, por ensinar-me
+%a entender Projeto e Complexidade de Algoritmo e Tópicos em Fundamentos e Métodos de Computação/Bioinformática e a ver muitas coisas sob uma perspectiva
+%diferente. Sua intuição e comentários foram sempre de grande valia, mantendo minha mente
+%fervilhando de pensamentos muitas horas após nossos debates. Nossos debates, sem dúvida
+%alguma, foram um dos pontos mais interessantes e esclarecedores, dos quais terei muita saudade. Eu gostaria de agradecer minha amiga-orientadora, Maria Carolina Monard, por surpreenderme
+%com sua sagacidade, compreendendo e relevando épocas difíceis pelas quais passei. Em
+%várias situações, ela simplesmente parecia ler meus pensamentos ... Seu senso de justiça e
+%imparcialidade sempre me fascinaram, pois são ponderados com o bom senso; como ela costuma
+%dizer, ``cada caso é um caso''.
+%
+%Gostaria, também, de agradecer meus outros professores ligados ao labic, André Carvalho
+%e Solange Rezende, ambos muito estimados. André foi quem me introduziu os conceitos sobre
+%Redes Neurais Artificiais e Algoritmos Genéticos. Solange, mesmo não tendo tido a oportunidade
+%de ser seu aluno, aconselhou-me em várias situações e agradeço seu empenho. O esforço de
+%ambos, juntamente com a Carolina, em proporcionar aos seus orientados a oportunidade de
+%participar de congressos e eventos da área deve ser ressaltado. Além de viabilizar financeiramente
+%nossa participação, os três preferiram, em todas ocasiões possíveis, abdicar do seu direito a uma
+%viagem de avião, mais confortável e rápida, para usar tal recurso em nosso favor. Tal abdicação
+%é digna de louvor e não será esquecida. Citando Aristóteles, \textit{``In the arena of human life the
+%honors and rewards fall to those who show their good qualities in action''}.
+%
+%Eu agradeço aos meus outros professores do ICMC, local onde iniciei minha formação
+%científica. Dentre eles, Rosane Minghim introduziu-me conceitos sobre computação gráfica.
+%Embora não tendo a oportunidade de aplicar esses conhecimentos em minha tese, visualizaçõe é
+%uma questão importante em Data Mining, à qual prometo dar mais atenção daqui para frente.
+%José Carlos Maldonado, juntamente com a Solange, promoveu o auxólio necessário para que eu
+%apresentasse nosso trabalho na Second International Conference on Data Mining, realizada em
+%Cambridge, UK.
+%
+%Quero agradecer a todo pessoal de suporte do ICMC, especialmente as meninas da pós graduação
+%Elisabeth Moreti e Silva, Laura Turi e Marília Marino (recentemente transferida
+%para o setor de eventos), pela paciência que têm com todos nós pós-graduandos. Agradeço
+%às bibliotecáarias Giselda Solfa, Gislene de Oliveira, Gláucia Cristianini, Juliana Moraes, Maria
+%Lima, Regina Medeiros, Rosemari Casali, Rosemeire Zambon e Sandra Soligon, sempre solícitas
+%       %\µas
+%nossas necessidades.
+%
+%Eu também quero agradecer Nitin Indurkhya pelos comentários e sugestões sobre meu trabalho
+%e a Ross Quinlan, com o qual tive a honra de trocar alguns poucos e-mails, entretanto muito
+%esclarecedores. Agradeço também Peter Flach, que me receberam tão bem na 
+%rápida visita %µa%
+% Bristol University, UK. Conversar com Peter Flach foi um dos momentos da vidano qual aprendi mais do que em muitos anos de estudo em livros, e nossa conversa motivou-me
+%a utilizar a novidade de uma regra, além da precisão de Laplace, no sistema xruler. Pelas
+%poucas oportunidades que tive, fica claro que é fundamental para o progresso científico de nosso
+%país trocar experiências com pesquisadores estrangeiros.
+%
+%Em muitos debates com a Carolina tive a oportunidade de contar também com a presença
+%de Gustavo Batista, o ``lindinho'', outro doutorando com quem tive a honra de trocar idéias,
+%além de Ronaldo Prati, orientado de iniciação científica da Carolina, que inicia seu programa
+%de mestrado em breve. Pude acompanhar seu notável progresso desde dois anos atrás. Sua
+%capacidade, sem dúvida alguma, será devidamente explorada pela Carolina, de quem você já é o ``xodó''.
+%
+%Eu gostaria de agradecer aos demais colegas do labic Adriano Pila, Claudia Martins, Claudia
+%Milare, Cristiane Imamura, Marcos Geromini, Walter Nagai, entre outros, pela amizade e troca
+%de experiência durante esses anos de convívio.
+%
+%Em especial, agradeco á querida Jaqueline Brigladori Pugliesi pela atenção e carinho ao
+%revisar vários artigos que escrevi, bem como esta tese. Sinto-me em profundo débito, pois
+%não pude ajudá-la em seu exame de qualificação de doutorado, bem como em outras situações.
+%Agradeço á Jaqueline pelos momentos sublimes que compartilhamos juntos e peço mil desculpas
+%pelo pouco tempo que pude dispensar-lhe.
+%
+%Eu gostaria também de agradecer ao então diretor da Faculdade de Medicina de Ribeirão
+%Preto | USP, José Antunes Rodrigues por liberar-me parte do tempo para iniciar o programa de
+%doutorado. Agradeço também a Katia Suzuki, Gladys Pierri, Filipe Mesquita, Jony dos Santos
+%e Rogerio Castania, colegas com os quais convivo diariamente na FMRP, pelo suporte, troca de
+%experiência, pela paciência e por terem me compreendido, especialmente na fase final desta tese.
+%Wilson Silva Jr. é outra pessoa a quem agradeço, não são pela amizade e consideração, como
+%também pela oportunidade e paciência em tentar agregar-me ao seu grupo de bioinformática.
+%
+%Eu quero agradecer enormemente à minha família, especialmente aos meus pais, José da Costa Arruda e
+%Luzia Maria Arruda, pela minha formação de caráter, pelas oportunidades proporcionadas e pela consideração
+%que t6em por mim. A parte boa em mim é fruto deles. Agradeço também minha querida irmã
+%Rosângela da Costa Arruda, e meus irmãos Wesley Arruda e Warley Arruda. Confesso que sua ausência muito me faz falta.
+%
+%A todos meus familiares, minhas profundas desculpas pelos momentos que deixei de compartilhar com vocês. Peç apenas que relevem isso por eu estar fazendo algo que muito gosto.
+%Porém, os erros que porventura eu tenha cometido sobre o que escrevi nesta tese s~ao de responsabilidade
+%única e exclusivamente minha; os acertos são méritos de todas essas pessoas.
+%
+%Em sua tese, Usama Fayyad escreveu que ele não sabia por que as pessoas exageram agradecendo
+%``quase todas as pessoas no planet''. Sem exageros, tenho certeza que agradeci apenas
+%uma pequena fração das pessoas a quem devo muito e peço especial perdão àquelas que eu omiti
+%inconscientemente. Obrigado a todos!
+
+\end{agradecimentos}
+
+  \selectlanguage{brazil}
+
+  \begin{resumo}
+  
+	Os RNAs não-codificadores (ncRNAs) constituem um importante subconjunto dos transcritos  produzidos nas células dos organismos, pois afetam diversos processos celulares. Existem métodos computacionais  bastante eficazes  para  identificar proteínas, mas  a anotação  de ncRNAs é hoje objeto de pesquisa intensa, pois  suas características e sinais  não são ainda  completamente  conhecidos. Neste contexto, este trabalho apresenta uma arquitetura para anotação de ncRNAs baseada no paradigma de Sistemas Multiagentes, e usa raciocínio baseado em regras declarativas para decidir a anotação de uma determinada sequência de RNA, como base nas predições de ferramentas conhecidas.  
+	
+ \end{resumo}
+
+  \selectlanguage{american}
+  
+  \begin{abstract}
+  The science...
+  \end{abstract}
+
+  \selectlanguage{brazil}
+
+  \tableofcontents
+  \listoffigures
+  \listoftables
+
+  \textual
+  %\input{capitulos/capitulo1}
+  %\input{capitulos/capitulo2}
+  
+  \input{capitulos/capitulo1-introducao} % cap 1
+
+  \input{capitulos/capitulo2-Bio_Molecular} % cap 2
+
+  \input{capitulos/capitulo3-ncRNA_Codificadores} % cap 3
+
+  \input{capitulos/capitulo4-SMA} % cap 4
+
+  \input{capitulos/capitulo5-Proposta_ncRNA_Agents} % cap 5
+
+  \input{capitulos/capitulo6-Resultados} % cap 6
+
+  \input{capitulos/capitulo7-Conclusoes} % cap 7
+ 
+  \postextual
+  \bibliographystyle{plain}
+  \bibliography{bibliography}
+
+\end{document}

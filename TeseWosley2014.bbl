@@ -1,0 +1,591 @@
+\begin{thebibliography}{100}
+
+\bibitem{altschul1990basic:1990}
+S.F. Altschul, W.~Gish, W.~Miller, E.W. Myers, D.J. Lipman, et~al.
+\newblock Basic local alignment search tool.
+\newblock {\em Journal of molecular biology}, 215(3):403--410, 1990.
+
+\bibitem{Arrial:2006}
+R.~T. Arrial.
+\newblock Predição de {RNA}s não-codificadores no transcriptoma do fungo
+  \textit{{P}aracoccidioides brasiliensis} usando aprendizagem de máquina.
+\newblock {\em Dissertação de Mestrado do Departamento de Ciência da
+  Computação da UnB}, 2006.
+
+\bibitem{arrial2009screening:2009}
+R.T. Arrial, R.C. Togawa, and M.M. Brigido.
+\newblock Screening non-coding rnas in transcriptomes from neglected species
+  using portrait: case study of the pathogenic fungus paracoccidioides
+  brasiliensis.
+\newblock {\em BMC bioinformatics}, 10(1):239, 2009.
+
+\bibitem{Arruda:2011}
+W.~C Arruda, C.~G. Ralha, M.~E. M.~T. Walter, and P.F. Stadler.
+\newblock Comunicação verbal.
+\newblock 2011.
+
+\bibitem{wosley2011:2011}
+W.~C. Arruda, C.~G. Ralha, M.~E.~T. Walter, and I.~S. Bezerra.
+\newblock ncrna-agents: Anotação de rnas não-codificadores baseado em
+  sistema multiagentes.
+\newblock {\em WPOS}, 2011.
+
+\bibitem{badger1999critica:1999}
+J.H. Badger and G.J. Olsen.
+\newblock {CRITICA}: coding region identification tool invoking comparative
+  analysis.
+\newblock {\em Molecular biology and evolution}, 16(4):512--524, 1999.
+
+\bibitem{Bellifemine:2003}
+F.~Bellifemine, G.~Caire, A.~Poggi, and G.~Rimassa.
+\newblock {JADE} - a white paper.
+\newblock {\em White Paper 3, TILAB - Telecom Italia Lab.
+  (http://jade.tilab.com/)}, v. 3:p. 6--19, 2003.
+
+\bibitem{benson2006genbank:2006}
+D.A. Benson, I.~Karsch-Mizrachi, D.J. Lipman, J.~Ostell, and D.L. Wheeler.
+\newblock Genbank.
+\newblock {\em Nucleic acids research}, 34(suppl 1):D16--D20, 2006.
+
+\bibitem{brainstuff:2000}
+M.~Brain.
+\newblock How stuff works website - http://www.howstuffworks.co.
+\newblock 2000.
+
+\bibitem{brennecke2007discrete:2007}
+J.~Brennecke, A.A. Aravin, A.~Stark, M.~Dus, M.~Kellis, R.~Sachidanandam, and
+  G.J. Hannon.
+\newblock Discrete small rna-generating loci as master regulators of transposon
+  activity in< i> drosophila</i>.
+\newblock {\em Cell}, 128(6):1089--1103, 2007.
+
+\bibitem{brown2003plant:2003}
+J.W.S. Brown, M.~Echeverria, L.H. Qu, T.M. Lowe, J.P. Bachellerie,
+  A.~H{\"u}ttenhofer, J.P. Kastenmayer, P.J. Green, P.~Shaw, and D.F. Marshall.
+\newblock Plant sno{RNA} database.
+\newblock {\em Nucleic acids research}, 31(1):432--435, 2003.
+
+\bibitem{Browne:2009}
+P.~Browne.
+\newblock {\em JBoss Drools Business Rules}.
+\newblock Packt Publishing, 2009.
+
+\bibitem{Cougar:2011}
+Cougaar, 2012.
+\newblock Cougar - {http://cougaar.org}.
+
+\bibitem{dohm2008substantial:2008}
+J.C. Dohm, C.~Lottaz, T.~Borodina, and H.~Himmelbauer.
+\newblock Substantial biases in ultra-short read data sets from high-throughput
+  {DNA} sequencing.
+\newblock {\em Nucleic acids research}, 36(16):e105--e105, 2008.
+
+\bibitem{durbin1998biological:1998}
+R.~Durbin, S.R. Eddy, A.~Krogh, and G.~Mitchison.
+\newblock {\em Biological sequence analysis: probabilistic models of proteins
+  and nucleic acids}.
+\newblock Cambridge university press, 1998.
+
+\bibitem{eddy:2002}
+S.~R. Eddy.
+\newblock Computacional genomics of noncoding {RNA} genes.
+\newblock {\em Cell}, 109:137--140, 2002.
+
+\bibitem{eddy2003infernal:2003}
+SR~Eddy.
+\newblock Infernal user's guide.
+\newblock {\em http://infernal.janelia.org}, 2003.
+
+\bibitem{eddy1994rna:1994}
+S.R. Eddy and R.~Durbin.
+\newblock {RNA} sequence analysis using covariance models.
+\newblock {\em Nucleic acids research}, 22(11):2079--2088, 1994.
+
+\bibitem{eddy2001non:2001}
+S.R. Eddy et~al.
+\newblock {N}on-coding {RNA} genes and the modern {RNA} world.
+\newblock {\em Nature Reviews Genetics}, 2(12):919--929, 2001.
+
+\bibitem{ewing1998base:1998}
+B.~Ewing, L.D. Hillier, M.C. Wendl, and P.~Green.
+\newblock Base-calling of automated sequencer traces usingphred. i. accuracy
+  assessment.
+\newblock {\em Genome research}, 8(3):175--185, 1998.
+
+\bibitem{fichant1991identifying:1991}
+G.A. Fichant and C.~Burks.
+\newblock Identifying potential t{RNA} genes in genomic {DNA} sequences.
+\newblock {\em Journal of molecular biology}, 220(3):659, 1991.
+
+\bibitem{fipa:2002}
+{ACL} Fipa.
+\newblock Fipa {ACL} message structure specification.
+\newblock {\em Foundation for Intelligent Physical Agents,
+  http://www.fipa.org/specs/fipa00061/SC00061G.html (30.6. 2004)}, 2002.
+
+\bibitem{forgy1982rete:1982}
+C.L. Forgy.
+\newblock Rete: A fast algorithm for the many pattern/many object pattern match
+  problem.
+\newblock {\em Artificial intelligence}, 19(1):17--37, 1982.
+
+\bibitem{friedman2003jess:2003}
+E.~Friedman-Hill.
+\newblock {\em {JESS} in Action}.
+\newblock Manning, 2003.
+
+\bibitem{Genbank:2012}
+Genbank, 2012.
+\newblock Genbank - {http://www.ncbi.nlm.nih.gov/Genbank/}.
+
+\bibitem{green1994phrap:1994}
+P.~Green.
+\newblock Phrap.
+\newblock {\em Unpublished, available for download at http://www. genome.
+  washington. edu/UWGC/analysistools/phrap. htm}, 1994.
+
+\bibitem{griffiths2007annotating:2007}
+S.~Griffiths-Jones.
+\newblock Annotating noncoding rna genes.
+\newblock {\em Annu. Rev. Genomics Hum. Genet.}, 8:279--298, 2007.
+
+\bibitem{griffiths2003rfam:2003}
+S.~Griffiths-Jones, A.~Bateman, M.~Marshall, A.~Khanna, and S.R. Eddy.
+\newblock {Rfam}: an {RNA} family database.
+\newblock {\em Nucleic acids research}, 31(1):439--441, 2003.
+
+\bibitem{jones:2006}
+S.~Griffiths-Jones, R.~J. Grocock, S.~Dongen, A.~Bateman, and A.~J. Enright.
+\newblock mi{RB}ase: micro{RNA} sequences, targets and gene nomenclature.
+\newblock {\em Nucleic Acids Research}, 34:D140--D144, 2006.
+
+\bibitem{gruber2007rnaz:2007}
+A.R. Gruber, R.~Neub{\"o}ck, I.L. Hofacker, and S.~Washietl.
+\newblock The {RNA}z web server: prediction of thermodynamically stable and
+  evolutionarily conserved {RNA} structures.
+\newblock {\em Nucleic acids research}, 35(suppl 2):W335--W338, 2007.
+
+\bibitem{gutell:1994}
+R.~R. Gutell, N.~Larsenu, and C.~R. Woese.
+\newblock Lessons from an evolving r{RNA}: 16s and 23s r{RNA} structures from a
+  comparative perspective.
+\newblock {\em Microbiological Reviews}, 58(1):10--26, 1994.
+
+\bibitem{Hammurapi:2012}
+Hammurapi, 2012.
+\newblock Hammurapi Rules - {http://www.hammurapi.biz/hammurapi-
+  biz/ef/xmenu/hammurapi-group/products/hammurapi-rules/}.
+
+\bibitem{henikoff1992amino:1992}
+S.~Henikoff and J.G. Henikoff.
+\newblock Amino acid substitution matrices from protein blocks.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  89(22):10915--10919, 1992.
+
+\bibitem{hofacker2003vienna:2003}
+I.L. Hofacker.
+\newblock Vienna {RNA} secondary structure server.
+\newblock {\em Nucleic acids research}, 31(13):3429--3431, 2003.
+
+\bibitem{hofacker2002secondary:2002}
+I.L. Hofacker, M.~Fekete, and P.F. Stadler.
+\newblock Secondary structure prediction for aligned {RNA} sequences.
+\newblock {\em Journal of Molecular Biology}, 319(5):1059--1066, 2002.
+
+\bibitem{hofacker1994fast:1994}
+I.L. Hofacker, W.~Fontana, P.F. Stadler, L.S. Bonhoeffer, M.~Tacker, and
+  P.~Schuster.
+\newblock Fast folding and comparison of {RNA} secondary structures.
+\newblock {\em Monatshefte f{\"u}r Chemie/Chemical Monthly}, 125(2):167--188,
+  1994.
+
+\bibitem{huang1999cap3:1999}
+X.~Huang and A.~Madan.
+\newblock {CAP}3: A {DNA} sequence assembly program.
+\newblock {\em Genome research}, 9(9):868--877, 1999.
+
+\bibitem{huttenhofer2001rnomics:2001}
+A.~H{\"u}ttenhofer, M.~Kiefmann, S.~Meier-Ewert, J.~O'Brien, H.~Lehrach, J.P.
+  Bachellerie, and J.~Brosius.
+\newblock {RN}omics: an experimental approach that identifies 201 candidates
+  for novel, small, non-messenger rnas in mouse.
+\newblock {\em The EMBO journal}, 20(11):2943--2953, 2001.
+
+\bibitem{huttenhofer2005non:2005}
+A.~H{\"u}ttenhofer, P.~Schattner, and N.~Polacek.
+\newblock Non-coding {RNA}s: hope or hype?
+\newblock {\em TRENDS in Genetics}, 21(5):289--297, 2005.
+
+\bibitem{james:1989}
+B.D. James, G.J. Olsen, and N.R. Pace.
+\newblock Phylogenetic comparative analysis of {RNA} secondary structure.
+\newblock {\em Methods in Enzymology}, 180:227--239, 1989.
+
+\bibitem{klein2003rsearch:2003}
+R.~Klein and S.~Eddy.
+\newblock {RSEARCH}: finding homologs of single structured {RNA} sequences.
+\newblock {\em BMC bioinformatics}, 4(1):44, 2003.
+
+\bibitem{koolman:2005}
+J.~Koolman and K.~H. Roehm.
+\newblock {\em Color Atlas of Biochemistry}.
+\newblock Georg Thieme Verlag, 2005.
+
+\bibitem{lafontaine:2001}
+D.~L.~J. Lafontaine and D.~Tollervey.
+\newblock Ribosomal {RNA}.
+\newblock {\em Encyclopedia of Life Sciences}, 2001.
+
+\bibitem{lagesen2007rnammer:2007}
+K.~Lagesen, P.~Hallin, E.A. R{\o}dland, H.H. St{\ae}rfeldt, T.~Rognes, and D.W.
+  Ussery.
+\newblock Rnammer: consistent and rapid annotation of ribosomal rna genes.
+\newblock {\em Nucleic Acids Research}, 35(9):3100--3108, 2007.
+
+\bibitem{lander2001initial:2001}
+E.S. Lander, L.M. Linton, B.~Birren, C.~Nusbaum, M.C. Zody, J.~Baldwin,
+  K.~Devon, K.~Dewar, M.~Doyle, W.~FitzHugh, et~al.
+\newblock Initial sequencing and analysis of the human genome.
+\newblock {\em Nature}, 409(6822):860--921, 2001.
+
+\bibitem{laslett2004aragorn:2004}
+D.~Laslett and B.~Canback.
+\newblock {ARAGORN}, a program to detect t{RNA} genes and tm{RNA} genes in
+  nucleotide sequences.
+\newblock {\em Nucleic Acids Research}, 32(1):11--16, 2004.
+
+\bibitem{Lemos:2004}
+M.~Lemos, A.B. De~Miranda, A.B. De~Miranda, A.N.A.M. Moura, L.F.B. Seibel, M.A.
+  CasaNova, M.V.P. De~Aragao, R.N. Melo, M.A. CasaNova, M.L.Q. Mattoso, et~al.
+\newblock Workflow for bioinformatics.
+\newblock 2004.
+
+\bibitem{lestrade2006snorna:2006}
+L.~Lestrade and M.J. Weber.
+\newblock sno{RNA}-{LBME}-db, a comprehensive database of human {H/ACA} and
+  {C/D} box sno{RNA}s.
+\newblock {\em Nucleic acids research}, 34(suppl 1):D158--D162, 2006.
+
+\bibitem{liu2005noncode:2005}
+C.~Liu, B.~Bai, G.~Skogerb{\o}, L.~Cai, W.~Deng, Y.~Zhang, D.~Bu, Y.~Zhao, and
+  R.~Chen.
+\newblock {NONCODE}: an integrated knowledge database of non-coding {RNA}s.
+\newblock {\em Nucleic acids research}, 33(suppl 1):D112--D115, 2005.
+
+\bibitem{liu:2006}
+J.~Liu, J.~Gough, and B.~Rost.
+\newblock Distinguishing {P}rotein-{C}oding from {N}on-{C}oding {RNA}s through
+  support vector machines.
+\newblock {\em PLOS Genetics}, 2(4):529--536, 2006.
+
+\bibitem{lodish:2005}
+H.~Lodish, A.~Berk, and P.~Matsudaira.
+\newblock {\em Molecular Cell Biology}.
+\newblock W. H. Freeman \& Co, 2005.
+
+\bibitem{lopes:1998}
+S.~Lopes.
+\newblock {\em Introdução à Biologia e origem da vida, Citologia,
+  Reprodução e Embriologia, Histologia}.
+\newblock Saraiva, 1998.
+
+\bibitem{lowe1997trnascan:1997}
+T.M. Lowe and S.R. Eddy.
+\newblock t{RNA}scan-{SE}: a program for improved detection of transfer {RNA}
+  genes in genomic sequence.
+\newblock {\em Nucleic acids research}, 25(5):0955--964, 1997.
+
+\bibitem{Lundblad:2007}
+R.~L. Lundblad.
+\newblock {\em Biochemistry and Molecular Biology Compendium}.
+\newblock Taylor \& Francis Group, 1ed edition, 2007.
+
+\bibitem{machado2008computational:2008}
+A.~Machado-Lima, H.A. del Portillo, and A.M. Durham.
+\newblock Computational methods in noncoding rna research.
+\newblock {\em Journal of mathematical biology}, 56(1):15--49, 2008.
+
+\bibitem{mardis2008next:2008}
+E.R. Mardis.
+\newblock Next-generation {DNA} sequencing methods.
+\newblock {\em Annu. Rev. Genomics Hum. Genet.}, 9:387--402, 2008.
+
+\bibitem{mattick2001evolution:2001}
+J.S. Mattick and M.J. Gagen.
+\newblock The evolution of controlled multitasked gene networks: the role of
+  introns and other noncoding {RNA}s in the development of complex organisms.
+\newblock {\em Molecular Biology and Evolution}, 18(9):1611--1630, 2001.
+
+\bibitem{mccaskill1990equilibrium:1990}
+J.S. McCaskill.
+\newblock The equilibrium partition function and base pair binding
+  probabilities for {RNA} secondary structure.
+\newblock {\em Biopolymers}, 29(6-7):1105--1119, 1990.
+
+\bibitem{mendell2005micrornas:2005}
+J.T. Mendell.
+\newblock Micrornas: critical regulators of development, cellular physiology
+  and malignancy.
+\newblock {\em Cell Cycle}, 4(9):1179--1184, 2005.
+
+\bibitem{mercer2008specific:2008}
+T.R. Mercer, M.E. Dinger, S.M. Sunkin, M.F. Mehler, and J.S. Mattick.
+\newblock Specific expression of long noncoding {RNA}s in the mouse brain.
+\newblock {\em Proceedings of the National Academy of Sciences}, 105(2):716,
+  2008.
+
+\bibitem{michalak2006rna:2006}
+P.~Michalak.
+\newblock {RNA} world--the dark matter of evolutionary genomics.
+\newblock {\em Journal of evolutionary biology}, 19(6):1768--1774, 2006.
+
+\bibitem{mignone2006discrimination:2006}
+F.~Mignone and G.~Pesole.
+\newblock Discrimination of {N}on-{P}rotein-coding transcripts from
+  protein-coding m{RNA}.
+\newblock {\em {RNA} biology Journal}, 2006.
+
+\bibitem{miRBase:2012}
+mi{RB}ase, 2012.
+\newblock mi{RB}ase - {http://microrna.sanger.ac.uk/}.
+
+\bibitem{mituyama2009functional:2009}
+T.~Mituyama, K.~Yamada, E.~Hattori, H.~Okida, Y.~Ono, G.~Terai, A.~Yoshizawa,
+  T.~Komori, and K.~Asai.
+\newblock The functional rna database 3.0: databases to support mining and
+  annotation of functional rnas.
+\newblock {\em Nucleic acids research}, 37(suppl 1):D89--D92, 2009.
+
+\bibitem{NONCODE:2012}
+NONCODE, 2012.
+\newblock NONCODE - {http://www.noncode.org}.
+
+\bibitem{pang2006rapid:2006}
+K.C. Pang, M.C. Frith, and J.S. Mattick.
+\newblock Rapid evolution of noncoding {RNA}s: lack of conservation does not
+  mean lack of function.
+\newblock {\em Trends in Genetics}, 22(1):1--5, 2006.
+
+\bibitem{pang2007rnadb:2007}
+K.C. Pang, S.~Stephen, M.E. Dinger, P.G. Engstr{\"o}m, B.~Lenhard, and J.S.
+  Mattick.
+\newblock {RNA}db 2.0? an expanded database of mammalian non-coding {RNA}s.
+\newblock {\em Nucleic acids research}, 35(suppl 1):D178--D182, 2007.
+
+\bibitem{pavesi1994identification:1994}
+A.~Pavesi, F.~Conterio, A.~Bolchi, G.~Dieci, and S.~Ottonello.
+\newblock Identification of new eukaryotic t{RNA} genes in genomic {DNA}
+  databases by a multistep weight matrix anaylsis of transcriptional control
+  regions.
+\newblock {\em Nucleic acids research}, 22(7):1247--1256, 1994.
+
+\bibitem{pavon2009trna:2009}
+M.~Pavon-Eternod, S.~Gomes, R.~Geslain, Q.~Dai, M.R. Rosner, and T.~Pan.
+\newblock trna over-expression in breast cancer and functional consequences.
+\newblock {\em Nucleic acids research}, 37(21):7268--7280, 2009.
+
+\bibitem{pearson1988improved:1988}
+W.R. Pearson and D.J. Lipman.
+\newblock Improved tools for biological sequence comparison.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  85(8):2444--2448, 1988.
+
+\bibitem{pipas1975method:1975}
+J.M. Pipas and J.E. McMAHON.
+\newblock Method for predicting rna secondary structure.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  72(6):2017--2021, 1975.
+
+\bibitem{presutti2006non:2006}
+C.~Presutti, J.~Rosati, S.~Vincenti, and S.~Nasi.
+\newblock Non-coding {RNA} and brain.
+\newblock {\em BMC neuroscience}, 7(Suppl 1):S5, 2006.
+
+\bibitem{Ralha2011:2011}
+C.~G. Ralha, M.~E. M.~T. Walter, M.~M. Brigido, and H.~W. Schneider.
+\newblock A multi-agent tool to annotate biological sequences.
+\newblock {\em 3rd International Conference on Agents and Artificial
+  Intelligence (ICAART). Rome, Italy. The SciTePress Digital Library: The
+  Institute for Systems and Technologies of Information, Control and
+  Communication (INSTICC)}, pages p. 1--6., 2011.
+
+\bibitem{reynolds2004rational:2004}
+A.~Reynolds, D.~Leake, Q.~Boese, S.~Scaringe, W.S. Marshall, and A.~Khvorova.
+\newblock Rational si{RNA} design for {RNA} interference.
+\newblock {\em Nature biotechnology}, 22(3):326--330, 2004.
+
+\bibitem{Rfam:2012}
+Rfam, 2012.
+\newblock Rfam database - {ftp://ftp.sanger.ac.uk/pub/databases/Rfam}.
+
+\bibitem{rivas2001noncoding:2001}
+E.~Rivas and S.~Eddy.
+\newblock Noncoding {RNA} gene detection using comparative sequence analysis.
+\newblock {\em BMC bioinformatics}, 2(1):8, 2001.
+
+\bibitem{RNAdb:2012}
+{RNA}db, 2012.
+\newblock {RNA}db - {http://jsm-research.imb.uq.edu.au/rnadb}.
+
+\bibitem{ronaghi1998sequencing:1998}
+M.~Ronaghi, M.~Uhl{\'e}n, P.~Nyr{\'e}n, et~al.
+\newblock A sequencing method based on real-time pyrophosphate.
+\newblock {\em Science (New York, NY)}, 281(5375):363--365, 1998.
+
+\bibitem{Russell:2002}
+S.~J. Russell and P.~Norvig.
+\newblock {\em Artificial intelligence: A Modern Approach. Second Edition.}
+\newblock 2002.
+
+\bibitem{sakakibara1994stochastic:1994}
+Y.~Sakakibara, M.~Brown, R.~Hughey, I.S. Mian, K.~Sj{\"o}lander, R.C.
+  Underwood, and D.~Haussler.
+\newblock Stochastic context-free grammers for t{RNA} modeling.
+\newblock {\em Nucleic acids research}, 22(23):5112--5120, 1994.
+
+\bibitem{salzberg1998microbial:1998}
+S.L. Salzberg, A.L. Delcher, S.~Kasif, and O.~White.
+\newblock Microbial gene identification using interpolated markov models.
+\newblock {\em Nucleic acids research}, 26(2):544--548, 1998.
+
+\bibitem{Schneider2006:2006}
+H.~W. Schneider.
+\newblock Implementação de protótipo de um {SMA} para anotação manual em
+  projetos de sequenciamento de genomas.
+\newblock {\em Monografia de Graduação do Departamento de Ciência da
+  Computação da Universidade de Brasília}, 2006.
+
+\bibitem{Schneider2010:2010}
+H.~W. Schneider.
+\newblock Método de aprendizagem por reforço no sistema {B}io{A}gents.
+\newblock {\em Dissertação de Mestrado do Departamento de Ciência da
+  Computação da Universidade de Brasília}, 2010.
+
+\bibitem{schuster1997rna:1997}
+P.~Schuster, P.F. Stadler, and A.~Renner.
+\newblock {RNA} structures and folding: from conventional to new issues in
+  structure predictions.
+\newblock {\em Current opinion in structural biology}, 7(2):229--235, 1997.
+
+\bibitem{Sesam:2011}
+Se{S}am, 2012.
+\newblock Sesam - {http://www.simsesam.de}.
+
+\bibitem{setubal1997introduction:1997}
+J.C. Setubal and J.~Meidanis.
+\newblock {\em Introduction to Computational Molecular Biology}.
+\newblock PWS Pub., 1997.
+
+\bibitem{silva:2001}
+N.~P. Silva and L.~E.~C. Andrade.
+\newblock Noções básicas de {B}iologia {M}olecular.
+\newblock {\em Revista Brasileira de Reumatologia}, 41:83--94, 2001.
+
+\bibitem{PlantsnoRNA:2012}
+Plant sno{RNA}, 2012.
+\newblock Plant sno{RNA} database -
+  {http://bioinf.scri.sari.ac.uk/cgi-bin/plant\_snorna/home}.
+
+\bibitem{snoRNAbase:2012}
+sno{RNA}base, 2012.
+\newblock sno{RNA}base - {http://www-snorna.biotoul.fr/}.
+
+\bibitem{solda2009ariadne:2009}
+G.~Sold{\`a}, I.V. Makunin, O.U. Sezerman, A.~Corradin, G.~Corti, and
+  A.~Guffanti.
+\newblock An ariadne's thread to the identification and annotation of noncoding
+  {RNA}s in eukaryotes.
+\newblock {\em Briefings in bioinformatics}, 10(5):475--489, 2009.
+
+\bibitem{Stadler:2011}
+P.F. Stadler.
+\newblock Comunicação verbal.
+\newblock 2011.
+
+\bibitem{stryer:2002}
+L.~Stryer, L.~Berg, and J.~L. Tymoczco.
+\newblock {\em Biochemistry}.
+\newblock W. H. Freeman \& Co, 5ed edition, 2002.
+
+\bibitem{torarinsson2006thousands:2006}
+E.~Torarinsson, M.~Sawera, J.H. Havgaard, M.~Fredholm, and J.~Gorodkin.
+\newblock Thousands of corresponding human and mouse genomic regions
+  unalignable in primary sequence contain common {RNA} structure.
+\newblock {\em Genome research}, 16(7):885--889, 2006.
+
+\bibitem{torres2005crystal:2005}
+A.~Torres-Larios, K.K. Swinger, A.S. Krasilnikov, T.~Pan, and A.~Mondrag{\'o}n.
+\newblock Crystal structure of the {RNA} component of bacterial ribonuclease p.
+\newblock {\em Nature}, 437(7058):584--587, 2005.
+
+\bibitem{venter2001sequence:2001}
+J.C. Venter, M.D. Adams, E.W. Myers, P.W. Li, R.J. Mural, G.G. Sutton, H.O.
+  Smith, M.~Yandell, C.A. Evans, R.A. Holt, et~al.
+\newblock The sequence of the human genome.
+\newblock {\em Science's STKE}, 291(5507):1304--1351, 2001.
+
+\bibitem{Leone:2011}
+Leone. P. V.~S. Vieira.
+\newblock Implementação de uma plataforma de desenvolvimento de sistema
+  multiagente com abordagem peer-to-peer.
+\newblock {\em Monografia de graduação do Departamento de Ciência da
+  Computação da Universidade de Brasília}, 2011.
+
+\bibitem{voet:1995}
+D.~Voet and J.~G. Voet.
+\newblock {\em Biochemistry}.
+\newblock Wiley, 2nd edition, 1995.
+
+\bibitem{wahlestedt2006natural:2006}
+C.~Wahlestedt.
+\newblock Natural antisense and noncoding {RNA} transcripts as potential drug
+  targets.
+\newblock {\em Drug discovery today}, 11(11):503--508, 2006.
+
+\bibitem{wang2006psol:2006}
+C.~Wang, C.~Ding, R.F. Meraz, and S.R. Holbrook.
+\newblock {PSoL}: a positive sample only learning algorithm for finding
+  non-coding {RNA} genes.
+\newblock {\em Bioinformatics}, 22(21):2590--2596, 2006.
+
+\bibitem{washietl2005fast:2005}
+S.~Washietl, I.L. Hofacker, and P.F. Stadler.
+\newblock Fast and reliable prediction of noncoding {RNA}s.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 102(7):2454--2459, 2005.
+
+\bibitem{watson1953molecular:1953}
+J.D. Watson and F.H.C. Crick.
+\newblock Molecular structure of nucleic acids.
+\newblock {\em Nature}, 171(4356):737--738, 1953.
+
+\bibitem{wooldridge2009introduction:2009}
+M.J. Wooldridge.
+\newblock {\em An introduction to multiagent systems}.
+\newblock Wiley, 2009.
+
+\bibitem{xie2004genetic:2004}
+Z.~Xie, L.K. Johansen, A.M. Gustafson, K.D. Kasschau, A.D. Lellis,
+  D.~Zilberman, S.E. Jacobsen, and J.C. Carrington.
+\newblock Genetic and functional diversification of small rna pathways in
+  plants.
+\newblock {\em PLoS biology}, 2(5):e104, 2004.
+
+\bibitem{xue2005classification:2005}
+C.~Xue, F.~Li, T.~He, G.P. Liu, Y.~Li, and X.~Zhang.
+\newblock Classification of real and pseudo micro{RNA} precursors using local
+  structure-sequence features and support vector machine.
+\newblock {\em BMC Bioinformatics}, 6(1):310, 2005.
+
+\bibitem{zuker1984rna:1984}
+M.~Zuker and D.~Sankoff.
+\newblock {RNA} secondary structures and their prediction.
+\newblock {\em Bulletin of Mathematical Biology}, 46(4):591--621, 1984.
+
+\bibitem{zuker1981optimal:1981}
+M.~Zuker and P.~Stiegler.
+\newblock Optimal computer folding of large {RNA} sequences using
+  thermodynamics and auxiliary information.
+\newblock {\em Nucleic acids research}, 9(1):133--148, 1981.
+
+\end{thebibliography}
